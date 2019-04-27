@@ -8,5 +8,6 @@ export const defaultConfig = {
 	counter: false,
 	lightboxMaxHeight: "100%",
 	lightboxMaxWidth: "100%",
-	animationDuration: 100
+	animationDuration: 100,
+	closeText: 'Close'
 }
